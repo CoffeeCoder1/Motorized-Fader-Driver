@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=PSM60-081A-103B2
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=9
+Version=2.8
+Released=2020-05-01 16:35:16
+Downloaded=2024-12-15 22:01:33
+3D=Y

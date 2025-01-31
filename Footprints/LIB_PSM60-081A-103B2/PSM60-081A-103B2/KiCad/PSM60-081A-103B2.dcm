@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PSM60-081A-103B2
+D Slide Potentiometers 10Kohm 20% 60mm PC Terminal
+K
+F https://www.bourns.com/docs/Product-Datasheets/psm.pdf
+$ENDCMP
+#
+#End Doc Library

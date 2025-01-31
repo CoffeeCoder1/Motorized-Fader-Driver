@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PSM60-081A-103B2")(type "KiCad")(uri "${KIPRJMOD}/Footprints/LIB_PSM60-081A-103B2/PSM60-081A-103B2/KiCad")(options "")(descr ""))
+)
