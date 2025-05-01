@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model PSM01-081A-103B2
+#/278422/1266570/2.50/9/3/Variable Resistor
+DEF PSM01-081A-103B2 VR 0 30 Y Y 1 F N
+F0 "VR" 1250 300 50 H V L CNN
+F1 "PSM01-081A-103B2" 1250 200 50 H V L CNN
+F2 "PSM01081A103B2" 1250 100 50 H I L CNN
+F3 "https://www.bourns.com/docs/product-datasheets/psm.pdf?sfvrsn=1c1289f1_12" 1250 0 50 H I L CNN
+F4 "Bourns PSM01-081A-103B2 1 Gang Slide Carbon Potentiometer with a 6 x 1.2 mm Dia. Shaft, 10k, +/-20%, 0.5W" 1250 -100 50 H I L CNN "Description"
+F5 "13" 1250 -200 50 H I L CNN "Height"
+F6 "Bourns" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "PSM01-081A-103B2" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "652-PSM01081A103B2" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bourns/PSM01-081A-103B2?qs=MAZTpT1IVl8bvIPPcNHmoQ%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "PSM01-081A-103B2" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "null?region=nac" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X MH1 1 0 0 200 R 50 50 0 0 P
+X MH2 2 0 -100 200 R 50 50 0 0 P
+X CCW_1 A1 0 -200 200 R 50 50 0 0 P
+X WIPER_1 A2 0 -300 200 R 50 50 0 0 P
+X CW_1 A3 0 -400 200 R 50 50 0 0 P
+X CCW_2 B1 1400 0 200 L 50 50 0 0 P
+X WIPER_2 B2 1400 -100 200 L 50 50 0 0 P
+X CW_2 B3 1400 -200 200 L 50 50 0 0 P
+X T1 T1 1400 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

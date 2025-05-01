@@ -1,4 +1,10 @@
 (fp_lib_table
   (version 7)
+  (lib (name "PSM01-082A-103B2")(type "KiCad")(uri "${KIPRJMOD}/Footprints/LIB_PSM01-081A-103B2/PSM01-081A-103B2/KiCad")(options "")(descr ""))
   (lib (name "PSM60-081A-103B2")(type "KiCad")(uri "${KIPRJMOD}/Footprints/LIB_PSM60-081A-103B2/PSM60-081A-103B2/KiCad")(options "")(descr ""))
+  (lib (name "TPS2115ADRBR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/TPS2115ADRBR/footprints.pretty")(options "")(descr ""))
+  (lib (name "Connector_SM04B_SRSS_TB")(type "KiCad")(uri "${KIPRJMOD}/Footprints/SM04B_SRSS_TB/SM04B_SRSS_TB.pretty")(options "")(descr ""))
+  (lib (name "SparkFun-Qwiic")(type "KiCad")(uri "${KIPRJMOD}/Footprints/SparkFun_Qwiic_Logo/SparkFun-Qwiic.pretty")(options "")(descr ""))
+  (lib (name "GSB1C4621DS1HR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/GSB1C4621DS1HR")(options "")(descr ""))
+  (lib (name "ADS1219IPWR")(type "KiCad")(uri "${KIPRJMOD}/Footprints/ADS1219IPWR/ADS1219IPWR.pretty")(options "")(descr ""))
 )

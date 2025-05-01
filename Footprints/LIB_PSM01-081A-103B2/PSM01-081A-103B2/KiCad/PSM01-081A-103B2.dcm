@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PSM01-081A-103B2
+D Bourns PSM01-081A-103B2 1 Gang Slide Carbon Potentiometer with a 6 x 1.2 mm Dia. Shaft, 10k, +/-20%, 0.5W
+K
+F https://www.bourns.com/docs/product-datasheets/psm.pdf?sfvrsn=1c1289f1_12
+$ENDCMP
+#
+#End Doc Library
