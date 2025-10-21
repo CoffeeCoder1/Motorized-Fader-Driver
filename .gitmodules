@@ -1,0 +1,3 @@
+[submodule "Footprints/Paw-Connect"]
+	path = Footprints/Paw-Connect
+	url = https://github.com/LeoDJ/Paw-Connect.git
